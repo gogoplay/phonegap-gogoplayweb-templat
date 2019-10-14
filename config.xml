@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-gogoplaywebapp-template" version="1.0.0">
     
     <name>GOGOPLAY</name>
     <description>熱愛科技產品，喜歡嘗試新技術，秉持生活與玩樂做結合，平凡不頻繁，玩物不喪志 https://www.gogoplay.app</description>
