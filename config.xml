@@ -26,6 +26,7 @@
     
     <!-- 設定Android API 等級 -->
     <preference name="android-minSdkVersion" value="28" />
+    <preference name="android-targetSdkVersion" value="28" />
     
     <!-- 外掛 -->
     <plugin name="cordova-plugin-inappbrowser" spec="~1.7.1" />
